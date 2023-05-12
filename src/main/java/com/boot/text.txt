@@ -1,1 +1,1 @@
-for git gui check
+for git gui check = 1
