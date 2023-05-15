@@ -1,3 +1,4 @@
 for git gui check = 1
 for git gui check = 2
 for git gui check = 3
+for git gui check = 4
